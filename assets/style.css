@@ -1,0 +1,99 @@
+#profilePic{
+    max-width: 30%; 
+    max-height: 30%; 
+  }
+
+  footer{
+      background:black;
+  }
+
+  #link {
+    position: relative;
+    margin-bottom: 40px;
+    cursor: pointer;
+    transition: all .8s ease;
+}
+
+#link:hover {
+    transform: scale(1.1);
+}
+
+#link img {
+    
+    max-width: 100%;
+}
+footer, .push {
+    height: 80px;
+    border-top: 8px solid black;
+    line-height: 80px;
+    color: #CCCCCC;
+    text-align: center;
+}
+#myName{
+    height: 60px;
+   font-size: 35px;
+    line-height: 60px;
+    color:black;
+    font-weight:bold;
+
+
+    
+} 
+header{
+    border-bottom: 8px solid black;
+}
+body {
+    border: 2px solid black;
+     background-repeat: no-repeat;
+    background-size: auto;
+  }
+  #para{
+      color:black;
+      font-weight: bold;
+  }
+
+
+  a{
+color:black;
+font-weight: bold;
+  }
+
+  h1{
+    color:black;
+    font-weight: bold;
+}
+h2{
+    color:black;
+    font-weight: bold;
+}
+h3{
+    color:black;
+    font-weight: bold;
+}
+#form{
+    color:Black;
+    font-weight: bold;
+
+}
+
+.nav-link{
+    color:white;
+    font-weight:bold;
+}
+
+#fix{
+    color:white;
+    font-weight:bold;
+}
+ .label{
+     color:white;
+    
+
+}
+ 
+
+
+
+  
+  
+
