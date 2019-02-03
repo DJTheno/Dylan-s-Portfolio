@@ -61,15 +61,44 @@ font-weight: bold;
   h1{
     color:black;
     font-weight: bold;
+    height: 40px;
+    font-size: 35px;
+     line-height: 60px;
 }
 h2{
     color:black;
     font-weight: bold;
+    height: 40px;
+    font-size: 35px;
+     line-height: 60px;
 }
 h3{
     color:black;
     font-weight: bold;
+    height: 40px;
+    font-size: 35px;
+     line-height: 60px;
 }
+
+h4{
+    color:black;
+    font-weight: bold;
+    height: 40px;
+    font-size: 35px;
+     line-height: 60px;
+     
+}
+#out{
+    color:black;
+    font-weight: bold;
+    height: 40px;
+    font-size: 35px;
+     line-height: 60px;
+}
+
+
+
+
 #form{
     color:Black;
     font-weight: bold;
@@ -89,6 +118,10 @@ h3{
      color:white;
     
 
+}
+
+#social{
+    color:blue
 }
  
 
