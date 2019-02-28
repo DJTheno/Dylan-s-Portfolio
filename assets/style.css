@@ -12,6 +12,8 @@
     margin-bottom: 40px;
     cursor: pointer;
     transition: all .8s ease;
+    height: 10px;
+    width: 10px;
 }
 
 #link:hover {
@@ -122,6 +124,11 @@ h4{
 
 #social{
     color:blue
+}
+
+#srcimg{
+    height: 200px;
+    width: 200px;
 }
  
 
