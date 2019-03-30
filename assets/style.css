@@ -1,6 +1,6 @@
 #profilePic{
-    max-width: 30%; 
-    max-height: 30%; 
+    max-width: 40%; 
+    max-height: 70%; 
   }
 
   footer{
@@ -37,10 +37,12 @@ footer {
     line-height: 60px;
     color:white;
     font-weight:bold;
-
-
-    
+    left:20px;
 } 
+#about{
+    left:20px;
+}
+
 header{
     border-bottom: 8px solid black;
 }
@@ -52,7 +54,7 @@ body {
   #para{
       color:white;
       font-weight: bold;
-      margin-top:140px;
+      margin-top:60px;
   }
 
 
