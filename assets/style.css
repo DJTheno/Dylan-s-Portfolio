@@ -24,7 +24,7 @@
     
     max-width: 100%;
 }
-footer, .push {
+footer {
     height: 80px;
     border-top: 8px solid black;
     line-height: 80px;
@@ -35,7 +35,7 @@ footer, .push {
     height: 60px;
    font-size: 35px;
     line-height: 60px;
-    color:black;
+    color:white;
     font-weight:bold;
 
 
@@ -50,32 +50,33 @@ body {
     background-size: auto;
   }
   #para{
-      color:black;
+      color:white;
       font-weight: bold;
+      margin-top:140px;
   }
 
 
   a{
-color:black;
+color:white;
 font-weight: bold;
   }
 
   h1{
-    color:black;
+    color:white;
     font-weight: bold;
     height: 40px;
     font-size: 35px;
      line-height: 60px;
 }
 h2{
-    color:black;
+    color:white;
     font-weight: bold;
     height: 40px;
     font-size: 35px;
      line-height: 60px;
 }
 h3{
-    color:black;
+    color:white;
     font-weight: bold;
     height: 40px;
     font-size: 35px;
@@ -83,7 +84,7 @@ h3{
 }
 
 h4{
-    color:black;
+    color:white;
     font-weight: bold;
     height: 40px;
     font-size: 35px;
@@ -91,7 +92,7 @@ h4{
      
 }
 #out{
-    color:black;
+    color:white;
     font-weight: bold;
     height: 40px;
     font-size: 35px;
@@ -102,7 +103,7 @@ h4{
 
 
 #form{
-    color:Black;
+    color:white;
     font-weight: bold;
 
 }
@@ -134,6 +135,28 @@ h4{
 #picSection{
     padding-bottom: 140px;
 }
+
+#dylan{
+    height: 500px;
+    width: 400px;
+ 
+}
+
+#linked{
+    position: absolute;
+  right: 50px;
+  width: 75px;
+  height: 75px;
+}
+
+#github{
+    position: absolute;
+    right: 150px;
+    width: 75px;
+    height: 75px;
+}
+
+
 
 
   
